@@ -2,5 +2,5 @@
 
 | ### 1  | ### 2 |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
+| * 1 * 2 | Content Cell  |  
 | Content Cell  | Content Cell  |
